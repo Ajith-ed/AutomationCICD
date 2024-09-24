@@ -16,6 +16,7 @@ public class StandaloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// new Comments
 		String productname = "ZARA COAT 3";
 		WebDriver driver = new ChromeDriver();
 		System.setProperty("webdriver.chrome.driver", "D:\\Selenium driver\\chromedriver-win64\\chromedriver-win64");
